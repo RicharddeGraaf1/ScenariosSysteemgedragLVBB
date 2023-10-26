@@ -1,0 +1,10 @@
+{
+"schemaversie" : "1.2.0",
+"soort-aanlevering" : "kennisgeving",
+"soort-opdracht" : "publicatieOpdracht",
+"code-bevoegd-gezag" : "gm0363",
+"code-maker": "gm0363",
+"prefix-idlevering" : "RdG_scenarioSysteemGedrag1_aanlevering_4",
+"id-aanleveraar" : "00000003560458830000",	
+"id-bevoegd-gezag" : "00000001002564440000"
+}

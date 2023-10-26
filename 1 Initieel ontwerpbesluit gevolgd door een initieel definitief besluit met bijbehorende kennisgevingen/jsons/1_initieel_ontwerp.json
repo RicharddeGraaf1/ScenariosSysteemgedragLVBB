@@ -1,0 +1,21 @@
+{
+"aantal-gio" : 1,
+"aantal-jpg" : 0,
+"aantal-pdf-consolideren" : 0,
+"aantal-pdf-publiceren" : 0,
+"schemaversie" : "1.2.0",
+"soort-aanlevering" : "besluit",
+"soort-inhoud" : "initieel",
+"soort-opdracht" : "publicatieOpdracht",
+"soort-procedure" : "ontwerp",
+"ow-data" : "ja",
+"gml-poslist" : "95400 535208 96600 535208 96600 536400 95400 536400 95400 535208",
+"code-bevoegd-gezag" : "gm0363",
+"code-maker": "gm0363",
+"prefix-idlevering" : "RdG_scenarioSysteemGedrag1_aanlevering_1",
+"id-aanleveraar" : "00000003560458830000",	
+"id-bevoegd-gezag" : "00000001002564440000",
+"verwerkingsrestrictie" : "",
+"titel-regeling" : "scenarioSysteemGedrag1",
+"type-regeling" : "RegelingCompact"
+}

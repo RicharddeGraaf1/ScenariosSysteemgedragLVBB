@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lvbba:AanleveringKennisgeving xmlns:lvbba="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                               schemaversie="1.2.0">
+   <lvbba:KennisgevingVersie>
+      <data:ExpressionIdentificatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:FRBRWork>/akn/nl/doc/gm0363/2023/K_2023102616_3855330_4</data:FRBRWork>
+         <data:FRBRExpression>/akn/nl/doc/gm0363/2023/K_2023102616_3855330_4/nld@2023-10-26;4</data:FRBRExpression>
+         <data:soortWork>/join/id/stop/work_023</data:soortWork>
+      </data:ExpressionIdentificatie>
+      <data:KennisgevingMetadata xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:eindverantwoordelijke>/tooi/id/gemeente/gm0363</data:eindverantwoordelijke>
+         <data:maker>/tooi/id/gemeente/gm0363</data:maker>
+         <data:officieleTitel>Officiele titel van de aanlevering</data:officieleTitel>
+         <data:onderwerpen>
+            <data:onderwerp>/tooi/def/concept/c_9d1917e9</data:onderwerp>
+         </data:onderwerpen>
+         <data:mededelingOver>/akn/nl/bill/gm0363/2023/B_2023102616_3855330_3/nld@2023-10-26;3</data:mededelingOver>
+      </data:KennisgevingMetadata>
+      <data:Procedureverloopmutatie xmlns:data="https://standaarden.overheid.nl/stop/imop/data/">
+         <data:bekendOp>2023-10-27</data:bekendOp>
+         <data:voegStappenToe>
+            <data:Procedurestap>
+               <data:soortStap>/join/id/stop/procedure/stap_014</data:soortStap>
+               <data:voltooidOp>2023-11-03</data:voltooidOp>
+            </data:Procedurestap>
+            <data:Procedurestap>
+               <data:soortStap>/join/id/stop/procedure/stap_005</data:soortStap>
+               <data:voltooidOp>2023-12-01</data:voltooidOp>
+            </data:Procedurestap>
+         </data:voegStappenToe>
+      </data:Procedureverloopmutatie>
+      <tekst:Kennisgeving xmlns:tekst="https://standaarden.overheid.nl/stop/imop/tekst/">
+         <tekst:RegelingOpschrift eId="longTitle" wId="longTitle">
+            <tekst:Al>Officiele titel van de aanlevering</tekst:Al>
+         </tekst:RegelingOpschrift>
+         <tekst:Lichaam eId="body" wId="body">
+            <tekst:Divisietekst eId="content_1" wId="gm0363_1__content_1">
+               <tekst:Kop>
+                  <tekst:Opschrift>Kennisgeving</tekst:Opschrift>
+               </tekst:Kop>
+               <tekst:Inhoud>
+                  <tekst:Al>Inhoud van de kennisgeving</tekst:Al>
+               </tekst:Inhoud>
+            </tekst:Divisietekst>
+         </tekst:Lichaam>
+      </tekst:Kennisgeving>
+   </lvbba:KennisgevingVersie>
+</lvbba:AanleveringKennisgeving>
